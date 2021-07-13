@@ -1,0 +1,12 @@
+li a {
+    color: red;
+    padding: 100px 100px 100px 500px;
+    text-decoration: none;
+    font-size: 26pt;
+}
+li {
+padding-top:100px;
+}
+body {
+    background: white url("images/background.jpg") no-repeat;
+}
